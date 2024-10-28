@@ -78,4 +78,4 @@ Feel free to contribute to this project, suggest improvements, or ask questions.
 
 ---
 
-> _“The blockchain is not just a record of wealth, but a record of soul.”_  
+> _“The blockchain is not just a record of wealth, but a record of soul.”_
